@@ -27,7 +27,14 @@ var array=[{
 },{
   "ques":"what is my Last name?" , 
   "ans":"saraswat"
-}];
+},{
+  "ques":"where do I live?" , 
+  "ans":"agra"
+},{
+  "ques":"what is my favourite color?" , 
+  "ans":"black"
+}
+];
 
 for (var i=0; i<array.length; i++){
   var currentQues =array[i];

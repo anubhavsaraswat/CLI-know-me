@@ -41,3 +41,5 @@ for (var i=0; i<array.length; i++){
 
   play(currentQues.ques,currentQues.ans);
 }
+
+console.log("Your Final Score is " + score);
